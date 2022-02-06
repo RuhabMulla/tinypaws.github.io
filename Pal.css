@@ -1,0 +1,32 @@
+body{
+    background-color: peachpuff;
+}
+.wrapper .row .column{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
+.heading{
+    background-color: rgb(202, 154, 106);
+}
+a{
+    color: rgb(117, 69, 21);
+}
+.wrapper{
+    size: 100px;
+
+}
+.wrapper .row .column img{
+   height: 200px;
+   width: 200px;
+  }
+  .footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f7bbea;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+  }

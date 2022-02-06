@@ -1,0 +1,52 @@
+.about-section nav{
+    margin: 0 auto;
+}
+
+nav{
+    flex: 1;
+    text-align: left;
+}
+.about-section nav ul{
+    display: inline-block;
+    list-style: none;
+    margin-right: 2px;
+  
+}
+.about-section nav ul li{
+    display: inline-block;
+}
+.about-section nav ul li a{
+    display: inline-block;
+    color:maroon;
+}
+.about-section nav ul li button{
+    display: inline-block;
+    color:brown;
+}
+h2{
+    font-style: italic;
+    color: #8B4513;
+    text-align: center;
+    font-size: 35px;
+}
+body{
+    background-image: linear-gradient(#be7b5c, #FFF8DC);
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+
+.about-section a{
+    color: maroon;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #d3ad70;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }

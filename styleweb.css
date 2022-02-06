@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(#FFEBCD, #A0522D);
+}
+a{
+    color:maroon;
+    font-size: 17px;
+}
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFDEAD;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  p{
+      color:black;
+  }
+  .adopt a{
+      font-size: 30px;
+      align-items: center;
+  }
